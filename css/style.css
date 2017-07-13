@@ -49,7 +49,7 @@ a:hover {
 }
 
 .world-image img{
-	background: red;
+	background: #444;
 	transition: all .2s ease-in-out;
 	
 	opacity: 1;
