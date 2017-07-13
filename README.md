@@ -5,3 +5,8 @@ This is mostly so I have something to show for my abilities. It's also a minor t
 and I honestly don't really like the changes, but oh well.
 
 Check out a live version of the site, at http://www.benjamescook.com/manyworlds/
+
+# Todo List
+- [ ] Compress Images
+- [ ] Left/Right arrows on images
+- [ ] Fix Mobile Portrait View Problems
